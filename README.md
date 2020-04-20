@@ -1,1 +1,4 @@
-It is a web app for writing blogs. Users can register an account then they can write post, delete the post and modify the post.   I used Django in the backend.   
+# Blog App
+
+*It's a Django based web app. where admin will create other admin accounts, active/deactivate other blogger accounts, Publish or delete blog posts. Blogger will create blog posts, Delete own blog post, View other blogger blog post.*
+
